@@ -64,6 +64,11 @@ const Ninjas = ( {ninjas} ) => {
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae voluptatem repellat eos similique iusto soluta nihil vel eaque recusandae sapiente error quod, asperiores exercitationem quidem nesciunt alias ratione cumque excepturi.</p>
                 <h1 style={{marginTop: '50px'}}>Woah</h1>
             </div>
+            <br />
+                <br />
+                <Link href='/'>
+                <a className='btn'>Home</a>
+                </Link>
         </>
       );
 }
